@@ -20,7 +20,7 @@
       "outputPath": "/Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/chrispurkiss/.nuget/NuGet/NuGet.Config"
+        "/Users/chrispurkiss/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
