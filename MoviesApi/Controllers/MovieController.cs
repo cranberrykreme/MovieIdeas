@@ -25,6 +25,15 @@ namespace MoviesApi.Controllers
             new Movies {id=3, name="John Wick", rating=10,
             description="After a mans dog is killed by a gang of criminals, he seeks bloody revenge",
             releaseDate= new DateTime(2014, 10, 30)},
+            new Movies {id=4, name="Star Wars: Revenge of the Sith", rating=10,
+            description="A Jedi Knigt pursues ultimate power to save his secret wife from death", 
+            releaseDate= new DateTime(2005, 5, 19)},
+            new Movies {id=5, name="Morbius", rating=1, 
+            description="When Dr. Michael Morbius becomes a vampire, he has the first ever Morbin' Time", 
+            releaseDate= new DateTime(2022, 4, 1)},
+            new Movies {id=6, name="Despicable Me", rating=6, 
+            description="A supervillian adopts three little girls to help him in his plot to steal the moon", 
+            releaseDate= new DateTime(2010, 9, 9)}, 
         };
 
         /**
