@@ -18,23 +18,22 @@
 /Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.dll
 /Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.pdb
 /Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.genruntimeconfig.cache
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/appsettings.json
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/MoviesApi.exe
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/MoviesApi.deps.json
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/MoviesApi.runtimeconfig.json
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/MoviesApi.runtimeconfig.dev.json
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/MoviesApi.dll
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/bin/Debug/netcoreapp3.1/MoviesApi.pdb
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.csprojAssemblyReference.cache
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.AssemblyInfoInputs.cache
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.AssemblyInfo.cs
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.csproj.CoreCompileInputs.cache
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.MvcApplicationPartsAssemblyInfo.cache
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.RazorTargetAssemblyInfo.cache
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/staticwebassets/MoviesApi.StaticWebAssets.Manifest.cache
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/staticwebassets/MoviesApi.StaticWebAssets.xml
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.dll
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.pdb
-C:/Users/Darth Stalin/Documents/GitHub/MovieIdeas/MoviesApi/obj/Debug/netcoreapp3.1/MoviesApi.genruntimeconfig.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\MoviesApi.exe
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\MoviesApi.deps.json
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\MoviesApi.runtimeconfig.json
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\MoviesApi.runtimeconfig.dev.json
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\MoviesApi.dll
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\bin\Debug\netcoreapp3.1\MoviesApi.pdb
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.AssemblyInfoInputs.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.AssemblyInfo.cs
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.csproj.CoreCompileInputs.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.RazorTargetAssemblyInfo.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\staticwebassets\MoviesApi.StaticWebAssets.Manifest.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.dll
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.pdb
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.genruntimeconfig.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.csproj.AssemblyReference.cache
+C:\Users\Darth Stalin\Documents\GitHub\MovieIdeas\MoviesApi\obj\Debug\netcoreapp3.1\MoviesApi.GeneratedMSBuildEditorConfig.editorconfig

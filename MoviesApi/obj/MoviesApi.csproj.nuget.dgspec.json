@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/MoviesApi.csproj": {}
+    "C:\\Users\\Darth Stalin\\Documents\\GitHub\\MovieIdeas\\MoviesApi\\MoviesApi.csproj": {}
   },
   "projects": {
-    "/Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/MoviesApi.csproj": {
+    "C:\\Users\\Darth Stalin\\Documents\\GitHub\\MovieIdeas\\MoviesApi\\MoviesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/MoviesApi.csproj",
+        "projectUniqueName": "C:\\Users\\Darth Stalin\\Documents\\GitHub\\MovieIdeas\\MoviesApi\\MoviesApi.csproj",
         "projectName": "MoviesApi",
-        "projectPath": "/Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/MoviesApi.csproj",
-        "packagesPath": "/Users/chrispurkiss/.nuget/packages/",
-        "outputPath": "/Users/chrispurkiss/Desktop/code/MovieIdeas/MoviesApi/obj/",
+        "projectPath": "C:\\Users\\Darth Stalin\\Documents\\GitHub\\MovieIdeas\\MoviesApi\\MoviesApi.csproj",
+        "packagesPath": "C:\\Users\\Darth Stalin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darth Stalin\\Documents\\GitHub\\MovieIdeas\\MoviesApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/chrispurkiss/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Darth Stalin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

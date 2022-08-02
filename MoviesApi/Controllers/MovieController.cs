@@ -33,6 +33,7 @@ namespace MoviesApi.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Movies>> GetAll()
         {
+            System.Diagnostics.Debug.WriteLine("Basic Get call");
             return moviesList;
         }
 
@@ -51,17 +52,22 @@ namespace MoviesApi.Controllers
         }
 
         /**
-         * ANTHONY TODO: 
-         * Finish this method here in order to get the movies that have
-         * a rating of equal to or greater than the rating passed in via
-         * the api call. Don't forget to leave a comment explaining the 
-         * method when you are done.
+         * Returns the movies that have rating greater than
+         * or equal to the rating that is entered in via 
+         * the api call
          */
         [HttpGet("rate/{rating}")]
         public ActionResult<IEnumerable<Movies>> GetRating(
             int rating)
         {
-            return moviesList;
+            List<Movies> foundMovies = new List<Movies>();
+            IEnumerable<Movies> ret = moviesList.Where((item) => item.rating >= rating);
+            return Ok(ret);
         }
+
+        //HttpGet -> retrieve information
+        //HttpPost -> put in a new entry
+        //HttpPut -> edit an existing entry
+        //HttpDelete -> remove
     }
 }
