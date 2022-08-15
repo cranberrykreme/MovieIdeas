@@ -1,0 +1,26 @@
+<div>
+    <div>
+        <select [(ngModel)]="ratingSelected"
+        (change)="showWhatSelected()">
+            <option default>1</option>
+            <option>5</option>
+            <option>8</option>
+            <option>10</option>
+        </select>
+    </div>
+    <ul *ngFor="let movie of movieList"
+    class="list-info">
+        <li class="info">
+            <h5>Name: </h5>
+            {{movie.name}}
+        </li>
+        <li class="info">
+            <h5>Rating:</h5>
+            {{movie.rating}}/10
+        </li>
+        <li class="info">
+            <h5>Description:</h5>
+            {{movie.description}}
+        </li>
+    </ul>
+</div>

@@ -34,6 +34,9 @@ namespace MoviesApi.Controllers
             new Movies {id=6, name="Despicable Me", rating=6, 
             description="A supervillian adopts three little girls to help him in his plot to steal the moon", 
             releaseDate= new DateTime(2010, 9, 9)}, 
+            new Movies {id=7, name="The Great Race", rating=3,
+            description="Slapstick comedy about an old-timey car race",
+            releaseDate= new DateTime(1960,1,1)}
         };
 
         /**
